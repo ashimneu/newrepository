@@ -1,3 +1,2 @@
-# newrepository
-github practise before rocon 
-first edit made to the repository.
+# Pkgs_for_aruco_localization
+The packages aruco_localization needs two other packages: aruco & usb_cam
